@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LB1Android</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+    <string name="center">center</string>
+    <string name="current_bar_progress">Current_bar_progress</string>
 </resources>
